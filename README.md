@@ -16,5 +16,5 @@ Feel free to contact me via email at nompumelelo.mbatha@example.com or connect w
 She/Her
 
 ⚡ Fun fact:
-I once built a mini web application that helps students book campus shuttle rides, and it was my first experience combining Java backend with a front-end user interface.
+I once built a mini web application that helps students book eye screening, and it was my first experience combining Java backend with a front-end user interface.
 
