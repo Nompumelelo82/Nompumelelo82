@@ -10,7 +10,7 @@ Java, web development (HTML, CSS, JavaScript), mobile app development, and cloud
 Open-source projects, software development teams, or any tech-related collaborative initiatives that focus on problem-solving and innovation.
 
 📫 How to reach me:
-Feel free to contact me via email at nompumelelo.mbatha@example.com or connect with me on LinkedIn.
+Feel free to contact me via email at mvelochonco82@gmail.com or connect with me on LinkedIn.
 
 😄 Pronouns:
 She/Her
